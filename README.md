@@ -14,3 +14,5 @@ Ci-dessous la fiche complète du projet :
 *Objectif :*
   L’objectif est de se familiariser avec le traitement d’images, et les méthodes qui permettent
   de reconnaître les visages présents sur les différentes photos
+  
+  Enjoy !
